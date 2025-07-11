@@ -5,20 +5,24 @@ Projeto de realidade aumentada para o trabalho de faculdade
 Este projeto Flutter implementa uma aplicação de realidade aumentada  utilizando o plugin [`ar_flutter_plugin_2`]. O objetivo é permitir que objetos 3D sejam inseridos e interajam com o ambiente real por meio da câmera do dispositivo.
 
 Tema:
+
   O aplicativo foi desenvolvido com o tema de design de interiores, com o objetivo de permitir a visualização de objetos 3D em ambientes reais, como quartos, salas e superfícies diversas. A proposta é ajudar o usuário a entender como os móveis e itens decorativos ficariam dispostos no espaço físico.
 
 Funcionalidades:
+
   Detecção de superfície plana com ARCore
   Inserção de objetos 3D em tempo real
   Visualização do objeto em 360 graus 
   Rastreamento espacial com âncoras
 
 Tecnologias Utilizadas:
+
   Flutter
   Dart
   ARCore
 
 plugin necessarios:
+
   ar_flutter_plugin_2: ^0.0.3
   permission_handler
   vector_math
@@ -26,6 +30,7 @@ plugin necessarios:
   geolocator
 
 permissoes necessarias:
+
   Câmera
   internet 
   Hardware
