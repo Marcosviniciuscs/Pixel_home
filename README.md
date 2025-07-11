@@ -40,6 +40,10 @@ Câmera,
 internet,
 Hardware,
 
+Sobre os arquivos GLTF: 
+Dê preferencia para os arquivos Gltf ao realizar o Downloads dos objetos. 
+Adicionar os caminhos no pubspec 
+
 
 Instalação:
 
