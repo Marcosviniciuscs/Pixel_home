@@ -12,40 +12,40 @@ O aplicativo foi desenvolvido com o tema de design de interiores, com o objetivo
 
 Funcionalidades:
 
-Detecção de superfície plana com ARCore
-Inserção de objetos 3D em tempo real
-Visualização do objeto em 360 graus 
-Rastreamento espacial com âncoras
+Detecção de superfície plana com ARCore,
+Inserção de objetos 3D em tempo real,
+Visualização do objeto em 360 graus ,
+Rastreamento espacial com âncoras,
 
 
 Tecnologias Utilizadas:
 
-Flutter
-Dart
-ARCore
+Flutter,
+Dart,
+ARCore,
 
 
 plugin necessarios:
 
-ar_flutter_plugin_2: ^0.0.3
-permission_handler
-vector_math
-json_annotation
-geolocator
+ar_flutter_plugin_2: ^0.0.3 ,
+permission_handler,
+vector_math,
+json_annotation,
+geolocator,
 
 
 permissoes necessarias:
 
-Câmera
-internet 
-Hardware
+Câmera,
+internet,
+Hardware,
 
 
 Instalação:
 
-Dispositivo com suporte a ARCore
-Para que o app funcione corretamente com essa versao do plugin, considere o android 11 ou superior. 
-Android Studio
+Dispositivo com suporte a ARCore,
+Para que o app funcione corretamente com essa versao do plugin, considere o android 11 ou superior,
+Android Studio,
 
 
 Exemplo de Uso:
